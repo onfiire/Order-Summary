@@ -68,7 +68,8 @@ body {
 }
 .grid-img {
     grid-area: 2 / 5 / 6 / 9;
-    margin-top: 25px; }
+    margin-top: 25px;
+}
 .grid-title { grid-area: 6 / 5 / 7 / 9;}
 .grid-description { 
     grid-area: 7 / 5 / 9 / 9;
